@@ -1,4 +1,4 @@
-# QA Automation Classwork
+# QA Automation Classwork1
 
 This repository contains coursework, exercises, and practice projects
 completed as part of a QA Automation class.
@@ -36,3 +36,5 @@ assignment as the repository grows.
 This is a learning repository for educational purposes. The code and
 examples may be works in progress and are not necessarily intended for
 production use.
+
+My first Git practice
